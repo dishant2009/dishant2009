@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dishant2009](https://github.com/dishant2009)
 
-- 📝 I regularly write articles on [Coming soon — working on technical writeups for RAG, deployment tricks, and open-source tutorials](Coming soon — working on technical writeups for RAG, deployment tricks, and open-source tutorials)
+- 📝 I regularly write articles on [Fundamental concepts of Machine Learnng & Deep Learning]
 
 - 💬 Ask me about **LLM fine-tuning, prompt engineering, TensorRT deployment, real-time ML pipelines**
 
